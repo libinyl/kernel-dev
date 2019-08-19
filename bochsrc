@@ -1,0 +1,3 @@
+floppya: 1_44="./bootimg", status=inserted
+boot: floppy
+display_libray: x, options="gui_debug"
